@@ -70,5 +70,3 @@ rm -rf rm -rf $RPM_BUILD_ROOT
 /usr/lib/kernel/install.d/99-serenecopy.install
 
 %changelog
-* 2020/04/05 Mon kokkiemouse <kokkiemouse@fascode.net> - 0.0.0.1
-- Create Package
